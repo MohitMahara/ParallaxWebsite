@@ -12,7 +12,7 @@ body{
 
 /*  first Image section */
 .pimg1{
-    background-image: url(/images/f1.img.jpg);
+    background-image: url(images/f1.img.jpg);
     min-height:40em;;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,7 +53,7 @@ body{
 
 /* Secod image section */
 .pimg2{
-    background-image: url(/images/road.jpg);
+    background-image: url(images/road.jpg);
     min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,7 +67,7 @@ color: #ddd;
 }
 
 .pimg3{
-    background-image: url(/images/last2-img.jpg);
+    background-image: url(images/last2-img.jpg);
     min-height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
