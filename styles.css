@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Lato",sans-serif;
+    line-height:1.8;
+    color: #666;
+}
+
+/*  first Image section */
+.pimg1{
+    background-image: url(/images/f1.img.jpg);
+    min-height:40em;;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+}
+.textBg{
+    background: #313534;
+    color: #fff;
+    padding: 20px;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+
+
+/* Utility Clases */
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.ptext{
+    position: absolute;
+   text-align: center;
+   bottom: 50%;
+   top: 50%;
+   left: 35%;
+    text-transform: uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+}
+
+
+/* Secod image section */
+.pimg2{
+    background-image: url(/images/road.jpg);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.section-dark{
+background-color: #282e28;
+color: #ddd;
+}
+
+.pimg3{
+    background-image: url(/images/last2-img.jpg);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.lastText{
+    position: absolute;
+   text-align: center;
+   bottom: 50%;
+   top: 50%;
+   left: 28%;
+    text-transform: uppercase;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
